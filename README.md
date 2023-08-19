@@ -14,8 +14,8 @@ Dataset contains 41,540 records (1540 adopters and 40,000 non-adopters), each re
 a different user of the XYZ website who was targeted in the previous marketing campaign.
 Each record is described with 25 attributes.
 
-Dataset: 
+Dataset: https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZDataOG.csv
 
-Executive Summary:
+Executive Summary: https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf
 
-Technical Document:
+Technical Document: https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf
